@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+ }
+
+.deposito{
+  margin-left: 21.2%;
+  font-family: verdana;
+  color:#232526;
+  text-align: left;
+  width: 57%;
+}
+.inscreva{
+  float:right;
+}
+.mapa{
+  width:57.2%;
+  height: 57.2%;
+}
