@@ -112,7 +112,7 @@
 					</tbody>
 				</table>
 			</div>
-
+			<br>
 		</main>
 		<?php  include "./elementos/footer.php"; ?>
 		<?php  include "./elementos/scripts.php"; ?>

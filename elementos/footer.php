@@ -3,7 +3,7 @@
 
     <div class="container">
       <div class="row">
-        <div class="col l3 s12">
+        <div class="col l3 s6">
           <h7 class="white-text">Links rápidos</h7>
           <ul>
            <!-links do rodapé->
@@ -13,9 +13,18 @@
               <li><a class="white-text text-lighten-3" href="palestrantes.php"><i class="fa fa-user-o" aria-hidden="true"></i><span>     Palestrantes</span></a></li>
             </ul>
           </div>
-          <div class="col l3 s12">
+          <div class="col l3 s6">
             <ul>
-              <li></li>
+              <br>
+              <li><a class="white-text text-lighten-3" href="inscricao.php"><i class="fa fa-pencil" aria-hidden="true"></i><span>     Inscrições</span></a></li>
+              <li><a class="white-text text-lighten-3" href="localizacao.php"><i class="fa fa-map-o" aria-hidden="true"></i><span>     Localização</span></a></li>
+              <li><a class="white-text text-lighten-3" href="realizacao.php"><i class="fa fa-users" aria-hidden="true"></i><span>     Realização</span></a></li>
+              <li><a class="white-text text-lighten-3" href="contato.php"><i class="fa fa-phone" aria-hidden="true"></i><span>     Contato</span></a></li>
+            </ul>
+        </div>
+        <div class="col l3 s12">
+            <ul>
+              <br>
               <li><a class="white-text text-lighten-3" href="inscricao.php"><i class="fa fa-pencil" aria-hidden="true"></i><span>     Inscrições</span></a></li>
               <li><a class="white-text text-lighten-3" href="localizacao.php"><i class="fa fa-map-o" aria-hidden="true"></i><span>     Localização</span></a></li>
               <li><a class="white-text text-lighten-3" href="realizacao.php"><i class="fa fa-users" aria-hidden="true"></i><span>     Realização</span></a></li>

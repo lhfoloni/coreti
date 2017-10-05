@@ -22,7 +22,7 @@
 				     para o e-mail: <a href="mailto:coreti@protonmail.com"><u>coreti@protonmail.com</u></a> em até 48 horas após ter concluído o preenchimento do Formulário, para confirmação da sua inscrição.
 				    <br/><br/>
 				<table class="striped responsive-table">
-					<thead class="black white-text">
+					<thead class="grey darken-3 white-text">
 						<tr>
 							<th>Mini-Cursos</th>
 							<th>02/10/2017</th>
@@ -70,14 +70,15 @@
 						</tr>
 					</tbody>
 				</table>
+				<br>
 				<div class="row">
-					<div class="col s12 l3 m12">
+					<div class="col s12 l4 m12">
 					</div>
-					<div class="col s12 l3 m12">
-						<a class="waves-effect waves-light black btn modal-trigger" href="#modal2" >Fazer inscrição</a>
+					<div class="col s12 l4 m12">
+						<a class="waves-effect waves-light grey darken-3 btn modal-trigger" width="5%" href="#modal2" >Inscrição</a>
 					</div>
-					<div class="col s12 l3 m12">
-						<a class="waves-effect waves-light black btn modal-trigger" href="#modal1">Pré-requisitos</a>
+					<div class="col s12 l4 m12">
+						<a class="waves-effect waves-light grey darken-3 btn modal-trigger" width="5%" href="#modal1">Pré-requisitos</a>
 					</div>
 				</div>
 				
