@@ -14,19 +14,72 @@ main {
   font-family: verdana;
   color:#232526;
   text-align: left;
-  width: 57%;
+  width: 80%;
 }
 .deposito2{
-  margin-left: 10%;
+ 
   font-family: verdana;
   color:#232526;
   text-align: center;
-  width: 85%;
+  width: 100%;
+}
+.deposito3{
+  margin-left: 15.0%;
+  font-family: verdana;
+  color:#232526;
+  text-align: left;
+  width: 75%;
 }
 .inscreva{
+  margin-top: 2%;
   float:right;
 }
 .mapa{
   width:57.2%;
   height: 57.2%;
 }
+
+
+.imgefeito {
+  margin: 0;
+  overflow: hidden;
+  float: center;
+}
+.imgefeito a {
+  text-decoration: none;
+  float: center;
+}
+.imgefeito a:hover {
+  cursor: pointer;
+}
+
+.imgefeito a img {
+  float: center;
+  margin: 0;
+  border: none;
+  padding: 10px;
+  background: #fff;
+}
+
+.imgefeito a:hover .desc{
+  display: block;
+  font-size: 12px;
+  font-family: Verdana;
+  padding: 10px 0;
+  background: #111;
+  filter:alpha(opacity=75);
+  opacity:.75;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)"; /*--IE 8 Transparency--*/
+  color: #fff;
+  padding: 10px;
+  margin: 0;
+  width: 240px;
+  border-top: 1px solid #999;
+}
+.imgefeito a:hover .desc strong {
+  display: block;
+  margin-bottom: 5px;
+  font-size:1.5em;
+}
+
+.imgefeito a .desc {  display: none; }

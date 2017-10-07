@@ -12,47 +12,49 @@
 							<th>Palestrante</th>
 							<th>Tema:</th>
 							<th>Horário</th>
+							<th>Data:</th>
 						</tr>
 					</thead>
 					<tbody>
 						<tr>
-							<td>Murilo</td>
-							<td>Empresa Júnior</td>
+							<td>A Definir</td>
+							<td>A Definir</td>
 							<td>14h00 - 14h40</td>
+							<td>08/10/2017</td>
 
 						</tr>
 
 						<tr>
 							<td>Samara Santana</td>
-							<td>Empreendedorismo nas Redes Sociais</td>
+							<td>Redes Sociais, Inovação e Empreendedorismo na Era Digital</td>
 							<td>14h40 - 15h20</td>
+							<td>08/10/2017</td>
 
 						</tr>
 
 						<tr>
-							<td></td>
-							<td>Intervalo</td>
-							<td></td>
+							<td colspan="4"><b>Intervalo</b></td>
 						</tr>
 
 						<tr>
-							<td>Sebrae</td>
-							<td>Empreendedorismo</td>
+							<td>A Definir</td>
+							<td>A Definir</td>
 							<td>15h50 - 16h30</td>
+							<td>08/10/2017</td>
 
 						</tr>
 
 						<tr>
-							<td></td>
-							<td>Bate Papo sobre o Mercado de Trabalho de Jequié</td>
+							<td>A Definir</td>
+							<td>A Definir</td>
 							<td>16h30 - 17:30</td>
+							<td>08/10/2017</td>
 
 						</tr>
 
 						<tr>
-							<td></td>
-							<td>Encerramento</td>
-							<td></td>
+							<td colspan="4"><b>Encerramento</b></td>
+
 						</tr>
 					</tbody>
 				</table>
@@ -63,45 +65,47 @@
 							<th>Palestrante</th>
 							<th>Tema:</th>
 							<th>Horário</th>
+							<th>Data:</th>
 						</tr>
 					</thead>
 					<tbody>
 						<tr>
-							<td>Cláudio</td>
-							<td>Casas Inteligentes</td>
+							<td>A Definir</td>
+							<td>A Definir</td>
 							<td>14h00 - 14h40</td>
+							<td>09/10/2017</td>
 
 						</tr>
 
 						<tr>
-							<td>Roque</td>
-							<td>Veículos Autônomos</td>
+							<td>A Definir</td>
+							<td>A Definir</td>
 							<td>14h40 - 15h20</td>
+							<td>09/10/2017</td>
 						</tr>
 
 						<tr>
-							<td></td>
-							<td>Intervalo</td>
-							<td></td>
+						    <td colspan="4"><b>Intervalo</b></td>
+							
 						</tr>
 
 						<tr>
 							<td>André Luiz Amaral</td>
-							<td>Drones</td>
+							<td>Drones e suas tecnologias</td>
 							<td>15h50 - 16h30</td>
+							<td>09/10/2017</td>
 
 						</tr>
 
 						<tr>
-							<td>João / José</td>
-							<td>Sistemas Embarcados / Robótica</td>
+							<td>João Luiz</td>
+							<td>Tecnologias assistivas no contexto da computação</td>
 							<td>16h30 - 17:30</td>
+							<td>09/10/2017</td>
 						</tr>
 
 						<tr>
-							<td></td>
-							<td>Encerramento</td>
-							<td></td>
+							<td colspan="4"><b>Encerramento</b></td>
 						</tr>
 					</tbody>
 				</table>
@@ -112,46 +116,49 @@
 							<th>Palestrante</th>
 							<th>Tema:</th>
 							<th>Horário</th>
+							<th>Data:</th>
 						</tr>
 					</thead>
 					<tbody>
 						<tr>
-							<td>José Diaz</td>
-							<td>Software Livre</td>
+							<td>A Definir</td>
+							<td>A Definir</td>
 							<td>14h00 - 14h40</td>
+							<td>10/10/2017</td>
 
 						</tr>
 
 						<tr>
 							<td>Adriana</td>
-							<td>Redes do Futuro</td>
+							<td>Internet do Futuro</td>
 							<td>14h40 - 15h20</td>
+							<td>10/10/2017</td>
 
 						</tr>
 
 						<tr>
-							<td></td>
-							<td>Intervalo</td>
-							<td></td>
+							
+							<td colspan="4"><b>Intervalo</b></td>
+
 						</tr>
 
 						<tr>
-							<td>Italo</td>
-							<td>Segurança</td>
+							<td>Italo Valcy</td>
+							<td>Aspectos de cibersegurança no ambiente universitário</td>
 							<td>15h50 - 16h30</td>
+							<td>10/10/2017</td>
 
 						</tr>
 
 						<tr>
-							<td>Gêneses</td>
-							<td>Segurança</td>
+							<td>A Definir</td>
+							<td>A Definir</td>
 							<td>16h30 - 17:30</td>
+							<td>10/10/2017</td>
 						</tr>
 
 						<tr>
-							<td></td>
-							<td>Encerramento</td>
-							<td></td>
+						<td colspan="4"><b>Encerramento</b></td>
 						</tr>
 					</tbody>
 				</table>
