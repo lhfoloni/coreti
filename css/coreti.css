@@ -10,11 +10,18 @@ main {
  }
 
 .deposito{
-  margin-left: 21.2%;
+  margin-left: 22.5%;
   font-family: verdana;
   color:#232526;
   text-align: left;
   width: 57%;
+}
+.deposito2{
+  margin-left: 10%;
+  font-family: verdana;
+  color:#232526;
+  text-align: center;
+  width: 85%;
 }
 .inscreva{
   float:right;

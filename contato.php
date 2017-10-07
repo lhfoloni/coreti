@@ -6,7 +6,7 @@
 		<main class="valign-wrapper center-aling">
 			<div class="deposito  ">
 				<div class="row ">
-			        <div class="col s12 m4 ">
+			        <div class="col s12 m6 ">
 			          <div class="card grey darken-3 darken-1 hoverable" >
 			            <div class="card-content white-text ">
 			              <span class="card-title">Contatos:</span>
