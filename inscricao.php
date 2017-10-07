@@ -10,8 +10,8 @@
 				<b>Para participar das palestras, você deverá: </b><br>
 				1. Fazer a Inscrição que é sem custos.<br><br>
 								          
-				2. Caso queria participar de algum mini curso:<br><br>
-				    Realizar depósito bancário para:<br>
+				<b>Caso queria participar de algum mini curso:</b><br>
+				2. Realizar depósito bancário para:<br>
 				     <b>Banco do Brasil<br/>
 				     Agência: 2014-1<br/>
 				     Conta-Corrente: 29.911-1<br/>
@@ -23,7 +23,7 @@
 				     para o e-mail: <a href="mailto:coreti@protonmail.com"><u>coreti@protonmail.com</u></a> em até 48 horas após ter concluído o preenchimento do Formulário, para confirmação da sua inscrição.
 				    <br/><br/>
 				    5. Inscrições para os mini-cursos/oficinas não garantem vagas para assistir as paletras, o mesmo deve se inscrever na parte das palestras caso queira assisti-las.<br><br>
-				    6. As oficinas irão ser apenas de prática, ou seja o inscrito deverá ter assistido ao mini-curso para ter obtido o conhecimento necessário ou ja está familiarizado com o assunto. <br><br>
+				    6. As oficinas irão ser apenas de prática, ou seja o inscrito deverá ter assistido ao mini-curso para ter obtido o conhecimento necessário ou ja est\r familiarizado com o assunto. <br><br>
 				<table class="striped responsive-table">
 					<thead class="grey darken-3 white-text">
 						<tr>
@@ -113,7 +113,7 @@
 					<div class="col s12 l4 m12">
 					</div>
 					<div class="col s12 l4 m12">
-						<a class="waves-effect waves-light grey darken-3 btn modal-trigger" width="5%" onclick="myFunction()">Inscrição</a>
+						<a class="waves-effect waves-light grey darken-3 btn modal-trigger" width="5%" onclick="window.open(&quot;http://cpds.uesb.br/somar/&quot;);">Inscrição</a>
 					</div>
 					<div class="col s12 l4 m12">
 						<a class="waves-effect waves-light grey darken-3 btn modal-trigger" width="5%" href="#modal1">Pré-requisitos</a>
@@ -123,16 +123,6 @@
 			</div>
 		<?php  include "modal-requisito.php"; ?>
 	    	</main>
-       
-        <script>
-      function myFunction() {
-       window.open("http://cpds.uesb.br/somar/", "_blank", "toolbar=yes,scrollbars=yes,resizable=yes,top=500,left=500,width=400,height=400");
-}
-</script>
-
-
-
-
 		
 		<?php  include "./elementos/footer.php"; ?>
 		<?php  include "./elementos/scripts.php"; ?>
