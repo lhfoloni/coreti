@@ -1,0 +1,42 @@
+.imgefeito {
+  margin: 0;
+  overflow: hidden;
+  }
+.imgefeito a {
+  text-decoration: none;
+  
+}
+.imgefeito a:hover {
+  cursor: pointer;
+}
+
+.imgefeito a img {
+ 
+  
+  border:solid;
+  border-radius: 10px 10px 0px 0px;
+  border-color: white;
+  background: grey;
+}
+
+.imgefeito a:hover .desc{
+  display: block;
+  font-size: 12px;
+  font-family: Verdana;
+  background: grey;
+  filter:alpha(opacity=75);
+  opacity:.75;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)"; /*--IE 8 Transparency--*/
+  color: #fff;
+  width: 31%;
+  padding: 20px;
+  margin-top: -10px;
+  border-radius: 0px 0px 10px 10px;
+}
+.imgefeito a:hover .desc strong {
+  display: block;
+  margin-bottom: 5px;
+  font-size:1.5em;
+}
+
+.imgefeito a .desc {  display: none; }

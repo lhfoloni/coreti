@@ -3,6 +3,7 @@ $(document).ready(function($) {
 	$(".slider").slider({full_width: true});
 	$('#modal1').modal('');
 	$('#modal2').modal('');
+	$('#modal3').modal('');
 	$('.carousel').carousel();
 	// Next slide
 	$('.carousel').carousel('next');
