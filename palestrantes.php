@@ -7,7 +7,8 @@
 			<div class="deposito3">
             <br>
              <br>
-      <div class="imgefeito" alt="Exemplo de legenda com CSS" align="center">
+    <div class="row">
+      <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
         <a href="">
         <img  src="IMG/joao.jpg"/>
 	    <span class="desc">
@@ -19,7 +20,7 @@
 		</a>
 		</div>
 
-      <div class="imgefeito" alt="Exemplo de legenda com CSS" align="center">
+      <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
         <a href="">
         <img  src="IMG/italo.jpg"/>
 	    <span class="desc">
@@ -28,7 +29,7 @@
 		</a>
 		</div>
 
-	  <div class="imgefeito" alt="Exemplo de legenda com CSS" align="center">
+	  <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
         <a href="">
         <img  src="IMG/andre.png"/>
 	    <span class="desc">
@@ -38,26 +39,26 @@
         </span>
         </a>
         </div>
-
-	  <div class="imgefeito" alt="Exemplo de legenda com CSS" align="center">
-        <a href="">
-        <img  src="IMG/samara1.png"/>
-	    <span class="desc">
-        <strong>Samara Barreto Santana</strong> é Analista de Sistemas e sócia da Innovate. Especializando-se em Marketing Digital pela Universidade Candido Mendes/MG, fez Empretec em 2008 e faz parte da equipe da QI Network empresa credenciada Google. 
-        </span>
-        </a>
+    </div>
+    <div class="row">
+        <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS" >
+            <a href="">
+            <img  src="IMG/samara1.png"/>
+            <span class="desc">
+            <strong>Samara Barreto Santana</strong> é Analista de Sistemas e sócia da Innovate. Especializando-se em Marketing Digital pela Universidade Candido Mendes/MG, fez Empretec em 2008 e faz parte da equipe da QI Network empresa credenciada Google. 
+            </span>
+            </a>
         </div>
-		
-	  <div class="imgefeito" alt="Exemplo de legenda com CSS" align="center">
-        <a href="">
-        <img  src="IMG/adriana.jpg"/>
-	    <span class="desc">
-        <strong>Adriana Viriato Ribeiro</strong> Bacharel em Sistemas de Informação pela UESB. Estudante de mestrado em Ciência da Computação(área de Redes de Computadores com foco em Internet do Futuro) pela UFBA. Atua como cientista de dados no Centro de Integração de Dados e Conhecimentos para Saúde (CIDACS) na área de Big Data.  	
-        </span>
-        </a>
-        </div>	
 
-		</div>
+        <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS" >
+            <a href="">
+            <img  src="IMG/adriana.jpg"/>
+            <span class="desc">
+            <strong>Adriana Viriato Ribeiro</strong> Bacharel em Sistemas de Informação pela UESB. Estudante de mestrado em Ciência da Computação(área de Redes de Computadores com foco em Internet do Futuro) pela UFBA. Atua como cientista de dados no Centro de Integração de Dados e Conhecimentos para Saúde (CIDACS) na área de Big Data.  	
+            </span>
+            </a>
+        </div>
+    </div>
 
 
 
