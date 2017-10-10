@@ -7,6 +7,7 @@
 			<div class="deposito">
 				<p>               
 					<b>Para participar das palestras, você deverá: </b><br>
+
 					1. O evento é gratuito. Serão cobrados apenas a participação nos minicursos e das oficinas separadamente. <br><br>
 									          
 					<b>Caso queria participar de algum minicurso:</b><br>

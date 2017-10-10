@@ -6,6 +6,7 @@
 		<main>
 			<div class="deposito">
 			<br><br>
+
 				<div class="top">
 				<img src="IMG/core.jpg" />
 				</div>

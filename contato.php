@@ -12,7 +12,6 @@
 			              <span class="card-title white-text">Contatos:</span>
 				               <p class="grey-text text-lighten-2">	Marcelo Guimarães:<br><a href="mailto:maguimaraes@uesb.edu.br"> maguimaraes@uesb.edu.br</a></p><br>
 				              <p class="grey-text text-lighten-2"> 	Email do Evento:<br><a href="mailto:coreti@protonmail.com"> coreti@protonmail.com</a></p>
-				             
 				        </div>
 			          </div>
 			        </div>

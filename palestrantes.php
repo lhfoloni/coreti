@@ -15,6 +15,7 @@
                         <span class="desc" align="justify">
                         <strong>João Luiz</strong> É Mestre e   Doutorando em Engenharia Elétrica , Graduado em Engenharia de
                         Computação,   especialista   em   Projeto   de   Circuitos   Integrados. Professor Assistente do Centro de Ciência e Tecnologia em Energia e Sustentabilidade – UFRB. 
+
                         </span>
                     </a>
                 </div>
@@ -42,6 +43,7 @@
             <div class="row">
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a>
+
                         <img  src="IMG/samara.jpeg"/>
                         <span class="desc" align="justify">
                         <strong>Samara Barreto Santana</strong> É Analista de Sistemas e sócia da Innovate. Especializando-se em Marketing Digital pela Universidade Candido Mendes/MG, fez Empretec em 2008 e faz parte da equipe da QI Network empresa credenciada Google. 
@@ -52,6 +54,7 @@
 
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a>
+
                         <img  src="IMG/adriana.jpeg"/>
                         <span class="desc" align="justify">
                         <strong>Adriana Viriato Ribeiro</strong> Bacharel em Sistemas de Informação pela UESB. Estudante de mestrado em Ciência da Computação(área de Redes de Computadores com foco em Internet do Futuro) pela UFBA. Atua como cientista de dados no Centro de Integração de Dados e Conhecimentos para Saúde (CIDACS) na área de Big Data.   
