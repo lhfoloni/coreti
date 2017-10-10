@@ -30,6 +30,7 @@ main {
   text-align: left;
   width: 75%;
 }
+
 .inscreva{
   margin-top: 2%;
   float:right;
@@ -83,3 +84,7 @@ main {
 }
 
 .imgefeito a .desc {  display: none; }
+
+.top{
+  text-align: center;
+}

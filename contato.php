@@ -8,17 +8,12 @@
 				<div class="row ">
 			        <div class="col s12 m6 ">
 			          <div class="card grey darken-3 darken-1 hoverable" >
-			            <div class="card-content white-text ">
-			              <span class="card-title">Contatos:</span>
-				              <p class="grey-text text-lighten-2">Secretaria do Evento:<br>
-				              	Marcelo Guimarães: (71) 991702857<br>
-							    Joyce: (73) 991198049<br>
-							    Reinaldo Bispo: (73) 991149377<br></p>
-				              <p class="grey-text text-lighten-2"><br>E-mail:<br>coreti@protonmail.com</p>
+			            <div class="card-content grey-text text-lighten-2 ">
+			              <span class="card-title white-text">Contatos:</span>
+				               <p class="grey-text text-lighten-2">	Marcelo Guimarães:<br><a href="mailto:maguimaraes@uesb.edu.br"> maguimaraes@uesb.edu.br</a></p><br>
+				              <p class="grey-text text-lighten-2"> 	Email do Evento:<br><a href="mailto:coreti@protonmail.com"> coreti@protonmail.com</a></p>
+				             
 				        </div>
-			            <div class="card-action">
-			              <a href="mailto:coreti@protonmail.com">Enviar e-mail</a>
-			            </div>
 			          </div>
 			        </div>
 			        
