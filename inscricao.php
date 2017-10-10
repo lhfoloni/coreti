@@ -24,7 +24,7 @@
 				    <br/><br/>
 				    5. Inscrições para os mini-cursos/oficinas não garantem vagas para assistir as palestras, o mesmo deve se inscrever na parte das palestras caso queira assisti-las.<br><br>
 				    6. As oficinas irão ser apenas de prática, ou seja o inscrito deverá ter assistido ao mini-curso para ter obtido o conhecimento necessário ou ja estar familiarizado com o assunto. <br><br>
-				<table class="striped responsive-table">
+				<table class="striped responsive-table centered">
 					<thead class="grey darken-3 white-text">
 						<tr>
 							<th>Mini-Cursos</th>
@@ -75,7 +75,7 @@
 				</table>
 				
 				    <br/><br/>
-				<table class="striped responsive-table">
+				<table class="striped responsive-table centered">
 					<thead class="grey darken-3 white-text">
 						<tr>
 							<th>Oficinas</th>
