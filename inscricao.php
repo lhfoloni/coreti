@@ -22,8 +22,8 @@
 				     4. Enviar a cópia do <b> comprovante de depósito</b>
 				     para o e-mail: <a href="mailto:coreti@protonmail.com"><u>coreti@protonmail.com</u></a> em até 48 horas após ter concluído o preenchimento do Formulário, para confirmação da sua inscrição.
 				    <br/><br/>
-				    5. Inscrições para os mini-cursos/oficinas não garantem vagas para assistir as paletras, o mesmo deve se inscrever na parte das palestras caso queira assisti-las.<br><br>
-				    6. As oficinas irão ser apenas de prática, ou seja o inscrito deverá ter assistido ao mini-curso para ter obtido o conhecimento necessário ou ja est\r familiarizado com o assunto. <br><br>
+				    5. Inscrições para os mini-cursos/oficinas não garantem vagas para assistir as palestras, o mesmo deve se inscrever na parte das palestras caso queira assisti-las.<br><br>
+				    6. As oficinas irão ser apenas de prática, ou seja o inscrito deverá ter assistido ao mini-curso para ter obtido o conhecimento necessário ou ja estar familiarizado com o assunto. <br><br>
 				<table class="striped responsive-table">
 					<thead class="grey darken-3 white-text">
 						<tr>

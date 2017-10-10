@@ -26,7 +26,7 @@
 
               <li><a class="white-text text-lighten-3"></i><strong><span>Realização:</span></strong></a></li><br>
 
-              <li><a class="white-text text-lighten-3"></i><strong><span>Realização:</span></strong></a></li>
+              
 
               <li><a class="white-text text-lighten-3" onclick="window.open(&quot;http://www.uesb.br&quot;);"></i><img width="35px" src="http://cpds.uesb.br/somar/images/uesb-1-1.png"></a></li>
               </ul>
@@ -37,7 +37,6 @@
 
             <li><a class="white-text text-lighten-3" onclick="window.open(&quot;http://www2.uesb.br/cpds&quot;);"></i><img width="100px" src="http://www2.uesb.br/cpds/wp-content/uploads/2016/07/logotipo-cpds.png" class="cpds"></a></li>
 
-            <li><a class="white-text text-lighten-3" onclick="window.open(&quot;http://www2.uesb.br/cpds&quot;);"></i><img width="100px" src="http://www2.uesb.br/cpds/wp-content/uploads/2016/07/logotipo-cpds.png"></a></li>
           </ul>
         </div>
       </div>
@@ -45,6 +44,6 @@
 
     <div class="footer-copyright">
       <div class="container">
-      © 2017 Desenvolvido por: Gabriel Batista e Luiz Herique</div>
+      © 2017 &nbsp Desenvolvido por: Gabriel Batista e Luiz Herique</div>
     </div>
 </footer>

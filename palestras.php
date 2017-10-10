@@ -7,12 +7,13 @@
 			<div class="deposito">
 				<br><br>
 				<table class="striped responsive-table centered">
-					<thead class="black white-text">
+					<thead class="grey darken-3 white-text">
 						<tr>
 							<th>Palestrante</th>
 							<th>Tema:</th>
 							<th>Horário</th>
 							<th>Data:</th>
+							<th>Local:</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -21,6 +22,7 @@
 							<td>A Definir</td>
 							<td>14h00 - 14h40</td>
 							<td>08/10/2017</td>
+							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 
 						</tr>
 
@@ -29,11 +31,12 @@
 							<td>Redes Sociais, Inovação e Empreendedorismo na Era Digital</td>
 							<td>14h40 - 15h20</td>
 							<td>08/10/2017</td>
+							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 
 						</tr>
 
 						<tr>
-							<td colspan="4"><b>Intervalo</b></td>
+							<td colspan="5"><b>Intervalo</b></td>
 						</tr>
 
 						<tr>
@@ -41,6 +44,7 @@
 							<td>A Definir</td>
 							<td>15h50 - 16h30</td>
 							<td>08/10/2017</td>
+							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 
 						</tr>
 
@@ -49,23 +53,25 @@
 							<td>A Definir</td>
 							<td>16h30 - 17:30</td>
 							<td>08/10/2017</td>
+							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 
 						</tr>
 
 						<tr>
-							<td colspan="4"><b>Encerramento</b></td>
+							<td colspan="5"><b>Encerramento</b></td>
 
 						</tr>
 					</tbody>
 				</table>
 				<br><br>
 				<table class="striped responsive-table centered">
-					<thead class="black white-text">
+					<thead class="grey darken-3 white-text">
 						<tr>
 							<th>Palestrante</th>
 							<th>Tema:</th>
 							<th>Horário</th>
 							<th>Data:</th>
+							<th>Local:</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -74,6 +80,7 @@
 							<td>A Definir</td>
 							<td>14h00 - 14h40</td>
 							<td>09/10/2017</td>
+							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 
 						</tr>
 
@@ -82,10 +89,11 @@
 							<td>A Definir</td>
 							<td>14h40 - 15h20</td>
 							<td>09/10/2017</td>
+							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 						</tr>
 
 						<tr>
-						    <td colspan="4"><b>Intervalo</b></td>
+						    <td colspan="5"><b>Intervalo</b></td>
 							
 						</tr>
 
@@ -94,6 +102,7 @@
 							<td>Drones e suas tecnologias</td>
 							<td>15h50 - 16h30</td>
 							<td>09/10/2017</td>
+							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 
 						</tr>
 
@@ -102,21 +111,23 @@
 							<td>Tecnologias assistivas no contexto da computação</td>
 							<td>16h30 - 17:30</td>
 							<td>09/10/2017</td>
+							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 						</tr>
 
 						<tr>
-							<td colspan="4"><b>Encerramento</b></td>
+							<td colspan="5"><b>Encerramento</b></td>
 						</tr>
 					</tbody>
 				</table>
 				<br><br>
 				<table class="striped responsive-table centered">
-					<thead class="black white-text">
+					<thead class="grey darken-3 white-text">
 						<tr>
 							<th>Palestrante</th>
 							<th>Tema:</th>
 							<th>Horário</th>
 							<th>Data:</th>
+							<th>Local:</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -125,6 +136,7 @@
 							<td>Software Livre e Telefonia IP</td>
 							<td>14h00 - 14h40</td>
 							<td>10/10/2017</td>
+							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 
 						</tr>
 
@@ -133,12 +145,13 @@
 							<td>Internet do Futuro</td>
 							<td>14h40 - 15h20</td>
 							<td>10/10/2017</td>
+							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 
 						</tr>
 
 						<tr>
 							
-							<td colspan="4"><b>Intervalo</b></td>
+							<td colspan="5"><b>Intervalo</b></td>
 
 						</tr>
 
@@ -147,6 +160,7 @@
 							<td>Aspectos de cibersegurança no ambiente universitário</td>
 							<td>15h50 - 16h30</td>
 							<td>10/10/2017</td>
+							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 
 						</tr>
 
@@ -155,10 +169,11 @@
 							<td>A Definir</td>
 							<td>16h30 - 17:30</td>
 							<td>10/10/2017</td>
+							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 						</tr>
 
 						<tr>
-						<td colspan="4"><b>Encerramento</b></td>
+						<td colspan="5"><b>Encerramento</b></td>
 						</tr>
 					</tbody>
 				</table>

@@ -75,12 +75,6 @@
 
 
 
-            <img  src="IMG/adriana.jpg"/>
-            <span class="desc">
-            <strong>Adriana Viriato Ribeiro</strong> Bacharel em Sistemas de Informação pela UESB. Estudante de mestrado em Ciência da Computação(área de Redes de Computadores com foco em Internet do Futuro) pela UFBA. Atua como cientista de dados no Centro de Integração de Dados e Conhecimentos para Saúde (CIDACS) na área de Big Data.  	
-            </span>
-            </a>
-        </div>
     </div>
 
         
