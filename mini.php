@@ -10,7 +10,7 @@
 					<thead class="grey darken-3 white-text">
 						<tr>
 							<th>Ministrante</th>
-							<th>Mini-Curso</th>
+							<th>Minicurso</th>
 							<th>Horário</th>
 							<th>Local</th>
 							<th>Data</th>

@@ -5,25 +5,28 @@
 		<?php  include "./elementos/nav.php"; ?>
 		<main>
 			<div class="deposito">
-				
-               
-				<b>Para participar das palestras, você deverá: </b><br>
-				1. Fazer a Inscrição que é sem custos.<br><br>
-								          
-				<b>Caso queria participar de algum mini curso:</b><br>
-				2. Realizar depósito bancário para:<br>
-				     <b>Banco do Brasil<br/>
-				     Agência: 2014-1<br/>
-				     Conta-Corrente: 29.911-1<br/>
-				     Titular: Marcelo Alves Guimarães</b><br/><br/>
-				3. Verificar se o mini-curso tem <b>pré-requisito</b> e se o inscrito se encaixa.
-				    <br/><br/>
+				<p>               
+					<b>Para participar das palestras, você deverá: </b><br>
+					1. O evento é gratuito. Serão cobrados apenas a participação nos minicursos. <br><br>
+									          
+					<b>Caso queria participar de algum mini curso:</b><br>
+					
+					2. Verificar se o minicurso tem <b>pré-requisito</b> e se o inscrito se encaixa no perfil requisitado.
+					    <br><br>
+					3. Efetuar a inscrição no minicurso desejado <br><br>
+					
+					4. Efetuar o pagamento da quantia referente ao minicurso e enviar a cópia do comprovante para o e-mail: <a href="mailto:coreti@protonmail.com"><u>coreti@protonmail.com</u></a> em até 48 horas após ter concluído o preenchimento do Formulário, para confirmação da sua inscrição.
+					    <br><br>
+					5. Inscrições para os mini-cursos/oficinas não garantem vagas para assistir as palestras, o mesmo deve se inscrever nas palestras caso queira assisti-las.<br><br>
 
-				     4. Enviar a cópia do <b> comprovante de depósito</b>
-				     para o e-mail: <a href="mailto:coreti@protonmail.com"><u>coreti@protonmail.com</u></a> em até 48 horas após ter concluído o preenchimento do Formulário, para confirmação da sua inscrição.
-				    <br/><br/>
-				    5. Inscrições para os mini-cursos/oficinas não garantem vagas para assistir as palestras, o mesmo deve se inscrever na parte das palestras caso queira assisti-las.<br><br>
-				    6. As oficinas irão ser apenas de prática, ou seja o inscrito deverá ter assistido ao mini-curso para ter obtido o conhecimento necessário ou ja estar familiarizado com o assunto. <br><br>
+					6. As oficinas consistirão de atividades práticas apenas. Nelas, o conhecimento prévio acerca do assunto é de fundamental importância, e podem ter sido obtidosnos minicursos disponíveis durante o evento ou em outra atividade do discente.<br><br>
+
+					<b>Conta para depósito:</b>
+				    <b>Banco do Brasil</b><br>
+				    <b>Agência:</b> 2014-1<br>
+				    <b>Conta-Corrente:</b> 29.911-1<br>
+				    <b>Titular:</b> Marcelo Alves Guimarães<br><br>
+			    </p>
 				<table class="striped responsive-table centered">
 					<thead class="grey darken-3 white-text">
 						<tr>
@@ -74,7 +77,7 @@
 					</tbody>
 				</table>
 				
-				    <br/><br/>
+				    <br><br>
 				<table class="striped responsive-table centered">
 					<thead class="grey darken-3 white-text">
 						<tr>
@@ -113,7 +116,7 @@
 					<div class="col s12 l4 m12">
 					</div>
 					<div class="col s12 l4 m12">
-						<a class="waves-effect waves-light grey darken-3 btn modal-trigger" width="5%" onclick="window.open(&quot;http://cpds.uesb.br/somar/&quot;);">Inscrição</a>
+						<a class="waves-effect waves-light grey darken-3 btn modal-trigger" width="5%" onclick="window.open(&quot;http://cpds.uesb.br/somar/&quot;);">Inscrições</a>
 					</div>
 					<div class="col s12 l4 m12">
 						<a class="waves-effect waves-light grey darken-3 btn modal-trigger" width="5%" href="#modal1">Pré-requisitos</a>
