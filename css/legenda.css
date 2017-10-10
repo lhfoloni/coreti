@@ -32,6 +32,13 @@
   width: 257px;
   margin-top: -6px;
   margin-left: 3px;
+
+  color: #fff;
+  width: 263px;
+  padding: 20px;
+  margin-top: -10px;
+  border-radius: 0px 0px 10px 10px;
+
 }
 .imgefeito a:hover .desc strong {
   display: block;

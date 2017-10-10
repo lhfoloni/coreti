@@ -48,6 +48,7 @@
             <strong>Samara Barreto Santana</strong> é Analista de Sistemas e sócia da Innovate. Especializando-se em Marketing Digital pela Universidade Candido Mendes/MG, fez Empretec em 2008 e faz parte da equipe da QI Network empresa credenciada Google. 
             </span>
             </a>
+
         </div>
 
         <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS" >
@@ -57,10 +58,12 @@
             <strong>Adriana Viriato Ribeiro</strong> Bacharel em Sistemas de Informação pela UESB. Estudante de mestrado em Ciência da Computação(área de Redes de Computadores com foco em Internet do Futuro) pela UFBA. Atua como cientista de dados no Centro de Integração de Dados e Conhecimentos para Saúde (CIDACS) na área de Big Data.  	
             </span>
             </a>
+
         </div>
 
         <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS" >
             <a href="">
+
             <img  src="IMG/isamar.jpg"/>
             <span class="desc">
             <strong>Isamar Maia</strong>.   
@@ -72,7 +75,13 @@
 
 
 
-
+            <img  src="IMG/adriana.jpg"/>
+            <span class="desc">
+            <strong>Adriana Viriato Ribeiro</strong> Bacharel em Sistemas de Informação pela UESB. Estudante de mestrado em Ciência da Computação(área de Redes de Computadores com foco em Internet do Futuro) pela UFBA. Atua como cientista de dados no Centro de Integração de Dados e Conhecimentos para Saúde (CIDACS) na área de Big Data.  	
+            </span>
+            </a>
+        </div>
+    </div>
 
         
 		</main>
