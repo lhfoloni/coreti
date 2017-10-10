@@ -14,24 +14,24 @@
  
   
   border:solid;
-  border-radius: 10px 10px 0px 0px;
-  border-color: white;
-  background: grey;
+  border-radius: 10px 10px 10px 10px;
+  border-color: black;
+  background: white;
+   border-width:thin;
 }
 
 .imgefeito a:hover .desc{
   display: block;
   font-size: 12px;
   font-family: Verdana;
-  background: grey;
+  background: white;
   filter:alpha(opacity=75);
   opacity:.75;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)"; /*--IE 8 Transparency--*/
-  color: #fff;
-  width: 18%;
-  padding: 20px;
-  margin-top: -10px;
-  border-radius: 0px 0px 10px 10px;
+  color: black;
+  width: 257px;
+  margin-top: -6px;
+  margin-left: 3px;
 }
 .imgefeito a:hover .desc strong {
   display: block;
@@ -40,3 +40,7 @@
 }
 
 .imgefeito a .desc {  display: none; }
+
+.cpds{
+  margin-top: 32px;
+}

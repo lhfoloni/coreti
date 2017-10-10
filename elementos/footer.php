@@ -13,7 +13,7 @@
               <li><a class="white-text text-lighten-3" href="palestrantes.php"><i class="fa fa-user-o" aria-hidden="true"></i><span>     Palestrantes</span></a></li>
             </ul>
           </div>
-          <div class="col l6 s6">
+          <div class="col l3 s6">
             <ul>
               <br>
               <li><a class="white-text text-lighten-3" href="inscricao.php"><i class="fa fa-pencil" aria-hidden="true"></i><span>     Inscrições</span></a></li>
@@ -21,12 +21,17 @@
               <li><a class="white-text text-lighten-3" href="contato.php"><i class="fa fa-phone" aria-hidden="true"></i><span>     Contato</span></a></li>
             </ul>
         </div>
-        <div class="col l3 s12">
+        <div class="col l1 s12">
             <ul>
-              <br>
-              <li><a class="white-text text-lighten-3"></i><strong><span>Realização:</span></strong></a></li>
-              <li><a class="white-text text-lighten-3"></i><img src="IMG/uesb.jpg"></a></li>
+              <li><a class="white-text text-lighten-3"></i><strong><span>Realização:</span></strong></a></li><br>
+              <li><a class="white-text text-lighten-3" onclick="window.open(&quot;http://www.uesb.br&quot;);"></i><img width="35px" src="http://cpds.uesb.br/somar/images/uesb-1-1.png"></a></li>
               </ul>
+        </div>
+        <div class="col l1 s12">
+          <ul>
+            <br>
+            <li><a class="white-text text-lighten-3" onclick="window.open(&quot;http://www2.uesb.br/cpds&quot;);"></i><img width="100px" src="http://www2.uesb.br/cpds/wp-content/uploads/2016/07/logotipo-cpds.png" class="cpds"></a></li>
+          </ul>
         </div>
       </div>
     </div>

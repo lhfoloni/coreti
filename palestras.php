@@ -121,8 +121,8 @@
 					</thead>
 					<tbody>
 						<tr>
-							<td>A Definir</td>
-							<td>A Definir</td>
+							<td>Isamar Maia</td>
+							<td>Software Livre e Telefonia IP</td>
 							<td>14h00 - 14h40</td>
 							<td>10/10/2017</td>
 

@@ -5,7 +5,8 @@
 		<?php  include "./elementos/nav.php"; ?>
 		<main>
 			<div class="deposito">
-				<p class="flow-text">   A 1ª Mostra de Sons, Saberes e Sabores de Silvares está estruturada em três áreas de organização relativamente autónomas, embora convergentes: Programação, Animação e Reflexão. O evento irá realizar-se entre os dias 12 e 15 de Agosto de 2006 em Silvares. Durante este período, haverá pequenas barracas de madeira para a exposição de trabalhos de artesanato, fotografia, pintura entre outras, cuja principal preocupação será a abordagem do quotidiano rural e a sensibilização do público presente para questões de ordem cultural, paisagística e ambiental. Haverá também um espaço de "comes e bebes" onde se deseja que a gastronomia regional, a doçaria tradicional, os petiscos e os licores tenham maior destaque. Peças de caça e peixes do rio, burlhões, enchidos e fumeiro caseiros, filhós e arroz doce, bolos de Santa Ana, serão algumas das iguarias presentes, algumas das quais confeccionadas no momento. </p>
+				<p class="flow-text" align="justify">O Congresso Regional de TI – CoRe TI, é um evento organizado por discentes do curso de Sistemas de Informação da UESB juntamente com os docentes do
+curso.<br><br>Temos por objetivo trazer a sociedade o conhecimento acerca de Tecnologia da Informação, trazendo para o evento diferentes tematicas de palestras e minicursos, buscando também proporcionar aos alunos do curso de Sistemas de Informação da UESB uma maior integração com alunos do proprio Campus de Jequié, ou alunos de outras Instituições de Ensino com cursos voltados a área de Tecnologia da Inforação(TI). E com isso trazer atualizações referentes a tecnologias, metodos e ferramentas ultilizadas na atualidade.</p>
 			</div>
 
 		</main>
