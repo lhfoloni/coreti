@@ -12,8 +12,7 @@
 			              <span class="card-title">Contatos:</span>
 				              <p class="grey-text text-lighten-2">Secretaria do Evento:<br>
 				              	Marcelo Guimarães: (71) 991702857<br>
-							    Joyce: (73) 991198049<br>
-							    Reinaldo Bispo: (73) 991149377<br></p>
+							    Joyce: (73) 991198049<br></p>
 				              <p class="grey-text text-lighten-2"><br>E-mail:<br>coreti@protonmail.com</p>
 				        </div>
 			            <div class="card-action">

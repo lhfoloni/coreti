@@ -95,7 +95,7 @@
 						</tr>
 						<tr>
 							<td>Reinaldo Bispo</td>
-							<td>Segurança: Teste de Vulnerabilidade</td>
+							<td>Segurança: Introdução à Teste de Vulnerabilidade</td>
 							<td>08h30 - 12h00</td>
 							<td>Sala de Reunião CPDS</td>
 							<td>10/11/2017</td>
