@@ -65,7 +65,7 @@
 							<td></td>
 						</tr>
 						<tr>
-							<td>Segurança:Teste de Vulnerabilidade</td>
+							<td>Segurança: Introdução à Teste de Vulnerabilidade</td>
 							<td>R$15,00</td>
 							<td>R$20,00</td>
 							<td>20</td>
@@ -101,7 +101,7 @@
 							<td>20</td>
 							</tr>
 						<tr>
-							<td>Segurança:Teste de Vulnerabilidade</td>
+							<td>Segurança: Introdução à Teste de Vulnerabilidade</td>
 							<td>R$10,00</td>
 							<td>20</td>
 							</tr>
