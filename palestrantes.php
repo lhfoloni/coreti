@@ -12,8 +12,8 @@
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a>
                         <img  src="IMG/joao.jpg"/>
-                        <span class="desc">
-                        <strong>João Luiz</strong> é Professor Assistente do Centro de Ciência e Tecnologia em Energia e Sustentabilidade –
+                        <span class="desc" align="justify">
+                        <strong>João Luiz</strong> É Professor Assistente do Centro de Ciência e Tecnologia em Energia e Sustentabilidade –
                         CETENS da Universidade Federal do Recôncavo da Bahia – UFRB. Graduado em Engenharia de
                         Computação,   especialista   em   Projeto   de   Circuitos   Integrados,   Mestre   e   Doutorando   em
                         Engenharia Elétrica
@@ -24,8 +24,8 @@
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a>
                         <img  src="IMG/italo.jpg"/>
-                        <span class="desc">
-                        <strong>Italo Valcy</strong> é mestre em Ciência da Computação pela Universidade Federal da Bahia
+                        <span class="desc" align="justify">
+                        <strong>Italo Valcy</strong> É mestre em Ciência da Computação pela Universidade Federal da Bahia, onde exerce o cargo de Gestor de Segurança da Informação e Coordenador da Equipe de Segurança de Redes. É co-fundador e membro do CERT.Bahia (Grupo de Segurança da Rede Acadêmica da Bahia), pesquisador no Ponto de Presença da Rede Nacional de Ensino e Pesquisa na Bahia e professor das trilhas de redes, segurança e sistemas na Escola Superior.
                         </span>
                     </a>
                 </div>
@@ -33,10 +33,10 @@
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a>
                         <img  src="IMG/andre.png"/>
-                        <span class="desc">
-                        <strong>André Luiz Amaral de Jesus Andrade</strong> é graduando do 8º semestre de Engenharia da Computação da FAINOR,
+                        <span class="desc" align="justify">
+                        <strong>André Luiz Amaral de Jesus Andrade</strong> É graduando do 8º semestre de Engenharia da Computação da FAINOR,
                         Participante   do   programa   de   iniciação   cientifica   tema   robótica   cooperativa   utilizando
-                        sistema ROS(Robot Operating System), 
+                        sistema ROS(Robot Operating System).
                         </span>
                     </a>
                 </div>
@@ -45,8 +45,8 @@
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a>
                         <img  src="IMG/samara1.png"/>
-                        <span class="desc">
-                        <strong>Samara Barreto Santana</strong> é Analista de Sistemas e sócia da Innovate. Especializando-se em Marketing Digital pela Universidade Candido Mendes/MG, fez Empretec em 2008 e faz parte da equipe da QI Network empresa credenciada Google. 
+                        <span class="desc" align="justify">
+                        <strong>Samara Barreto Santana</strong> É Analista de Sistemas e sócia da Innovate. Especializando-se em Marketing Digital pela Universidade Candido Mendes/MG, fez Empretec em 2008 e faz parte da equipe da QI Network empresa credenciada Google. 
                         </span>
                     </a>
 
@@ -55,7 +55,7 @@
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a>
                         <img  src="IMG/adriana.jpg"/>
-                        <span class="desc">
+                        <span class="desc" align="justify">
                         <strong>Adriana Viriato Ribeiro</strong> Bacharel em Sistemas de Informação pela UESB. Estudante de mestrado em Ciência da Computação(área de Redes de Computadores com foco em Internet do Futuro) pela UFBA. Atua como cientista de dados no Centro de Integração de Dados e Conhecimentos para Saúde (CIDACS) na área de Big Data.   
                         </span>
                     </a>
@@ -64,7 +64,7 @@
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a>
                         <img  src="IMG/isamar.jpg"/>
-                        <span class="desc">
+                        <span class="desc" align="justify">
                         <strong>Isamar Maia</strong>.   
                         </span>
                     </a>
@@ -76,7 +76,7 @@
                     <a >
                         <img  src="IMG/claudio.jpg"/>
                         <span class="desc">
-                        <strong>Cláudio Rodolfo Oliveira</strong> é doutorando em Ciência da Computação pela UFBA (Sistemas Web Semânticos), mestre em Ciência da Computação (Sistemas Distribuídos e Redes) pela UFScar, graduado em Ciência da Computação pela UESB.
+                        <strong>Cláudio Rodolfo Oliveira</strong> É doutorando em Ciência da Computação pela UFBA (Sistemas Web Semânticos), mestre em Ciência da Computação (Sistemas Distribuídos e Redes) pela UFScar, graduado em Ciência da Computação pela UESB.
                         </span>
                     </a>
                 </div>

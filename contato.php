@@ -8,11 +8,9 @@
 				<div class="row ">
 			        <div class="col s12 m6 ">
 			          <div class="card grey darken-3 darken-1 hoverable" >
-			            <div class="card-content white-text ">
-			              <span class="card-title">Contatos:</span>
-				              <p class="grey-text text-lighten-2">Secretaria do Evento:<br>
-				              	Marcelo Guimarães:<br>(71) 991702857<br>
-							    Joyce Mascarello:<br>(73) 991198049<br></p>
+			            <div class="card-content grey-text text-lighten-2 ">
+			              <span class="card-title white-text">Contatos:</span>
+				              	Marcelo Guimarães:<br>(71) 991702857<br></p>
 				              <p class="grey-text text-lighten-2"><br>E-mail:<br>coreti@protonmail.com</p>
 				        </div>
 			            <div class="card-action">
