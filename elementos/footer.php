@@ -38,7 +38,7 @@
           <div class="col l1 s12">
             <ul>
 
-              <li><a class="white-text text-lighten-3"></i><strong><span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPatrocínios:</span></strong></a></li><br>
+              <li><a class="white-text text-lighten-3"></i><strong><span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Patrocínios:</span></strong></a></li><br>
       </ul>
       </div>
       </div>
