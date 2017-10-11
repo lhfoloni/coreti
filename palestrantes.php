@@ -66,7 +66,7 @@
                     <a>
                         <img  src="IMG/isamar.jpg"/>
                         <span class="desc" align="justify">
-                        <strong>Isamar Maia</strong>.   
+                        <strong>Isamar Maia</strong>É formado em Engenharia da Computação e Mestrando em Tecnologias em Saúde. Possui mais de 15 anos de experiência em tecnologia da informação integrando redes IP, sistemas multi-plataforma, segurança de rede e firewall. É empreendedor, tendo sido pioneiro no provimento de acesso comercial à internet do estado da Bahia e na criação da IMTECH Consultoria e Sistemas.    
                         </span>
                     </a>
                 </div>

@@ -9,7 +9,7 @@
            <!-- Link do rodape -->
               <li><a class="white-text text-lighten-3" href="index.php"><i class="fa fa-university" aria-hidden="true"></i><span>     Evento</span></a></li>
               <li><a class="white-text text-lighten-3" href="palestras.php"><i class="fa fa-calendar-check-o" aria-hidden="true"></i><span>     Palestras</span></a></li>
-              <li><a class="white-text text-lighten-3" href="mini.php"><i class="fa fa-book" aria-hidden="true"></i><span>     Mini Cursos</span></a></li>
+              <li><a class="white-text text-lighten-3" href="mini.php"><i class="fa fa-book" aria-hidden="true"></i><span>     Minicursos</span></a></li>
               <li><a class="white-text text-lighten-3" href="palestrantes.php"><i class="fa fa-user-o" aria-hidden="true"></i><span>     Palestrantes</span></a></li>
             </ul>
           </div>
@@ -34,8 +34,13 @@
 
             <li><a class="white-text text-lighten-3" href="#" onclick="window.open(&quot;http://www2.uesb.br/cpds&quot;);"></i><img width="100px" src="http://www2.uesb.br/cpds/wp-content/uploads/2016/07/logotipo-cpds.png" class="cpds"></a></li>
 
-          </ul>
-        </div>
+          </ul></div>
+          <div class="col l1 s12">
+            <ul>
+
+              <li><a class="white-text text-lighten-3"></i><strong><span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPatrocínios:</span></strong></a></li><br>
+      </ul>
+      </div>
       </div>
     </div>
 

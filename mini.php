@@ -29,7 +29,7 @@
 							<td>Lucas</td>
 							<td>BootStrap</td>
 							<td>08h30 - 12h00</td>
-							<td>LAB 2</td>
+							<td>LAB 1</td>
 							<td>08/11/2017 e  09/11/2017</td>
 						</tr>
 
@@ -82,7 +82,7 @@
 							<td>Lucas</td>
 							<td>BootStrap</td>
 							<td>08h30 - 12h00</td>
-							<td>LAB 2</td>
+							<td>LAB 1</td>
 							<td>10/11/2017</td>
 						</tr>
 

@@ -18,8 +18,8 @@
 					</thead>
 					<tbody>
 						<tr>
-							<td>Palestra Empresa Júnior</td>
 							<td>Lucas Camara</td>
+							<td>Palestra Empresa Júnior</td>
 							<td>14h00 - 14h40</td>
 							<td>08/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
@@ -113,6 +113,15 @@
 							<td>09/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 						</tr>
+
+						<tr>
+							<td>A definir</td>
+							<td>A definir</td>
+							<td>17h30 - 18:30</td>
+							<td>09/11/2017</td>
+							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
+						</tr>
+
 
 						<tr>
 							<td colspan="5"><b>Encerramento</b></td>
