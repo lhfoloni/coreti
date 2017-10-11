@@ -11,8 +11,7 @@
 				</div>
 			</div>			
 			<div class="deposito">
-				<p class="flow-text" align="justify">O Congresso Regional de TI – CoRe TI, é um evento organizado por discentes do curso de Sistemas de Informação da UESB juntamente com os docentes do
-	curso.<br><br>Temos por objetivo trazer a sociedade o conhecimento acerca de Tecnologia da Informação, trazendo para o evento diferentes tematicas de palestras e minicursos, buscando também proporcionar aos alunos do curso de Sistemas de Informação da UESB uma maior integração com alunos do proprio Campus de Jequié, ou alunos de outras Instituições de Ensino com cursos voltados a área de Tecnologia da Informação(TI). E com isso trazer atualizações referentes a tecnologias, metodos e ferramentas ultilizadas na atualidade.</p>
+				<p class="flow-text" align="justify">O I Congresso Regional de TI (I CoReTI) tem como objetivo proporcionar aos alunos do curso de Sistemas de Informação da UESB uma maior integração, seja com alunos do próprio Campus de Jequié, ou alunos de outras Instituições de Ensino Superior com cursos voltados à área de Tecnologia da Informação (TI), buscando a atualização nas tecnologias, métodos e ferramentas utilizadas no projeto, desenvolvimento e gerenciamento de Sistemas de Informação. Busca-se esta ação por meio de palestras e minicursos aplicados por alunos e professores da UESB. Os minicursos oferecidos durante o evento serão ministrados por professores e alunos do curso de Sistemas de Informação, Professores e alunos convidados, de outras instituições, proporcionando a estes a prática no ensino e pesquisa.</p>
 		</div>
 
 		</main>

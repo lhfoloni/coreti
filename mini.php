@@ -18,7 +18,7 @@
 					</thead>
 					<tbody>
 						<tr>
-							<td>Camilo</td>
+							<td>Camilo Moreira</td>
 							<td>Introdução ao Arduíno</td>
 							<td>08h30 - 12h00</td>
 							<td>LAB 23</td>
@@ -26,7 +26,7 @@
 						</tr>
 
 						<tr>
-							<td>Lucas</td>
+							<td>Lucas Silva</td>
 							<td>BootStrap</td>
 							<td>08h30 - 12h00</td>
 							<td>LAB 1</td>
@@ -34,7 +34,7 @@
 						</tr>
 
 						<tr>
-							<td>Murilo</td>
+							<td>Murilo Cruz</td>
 							<td>Photoshop</td>
 							<td>08h30 - 12h00</td>
 							<td>LAB 3</td>
@@ -71,7 +71,7 @@
 					</thead>
 					<tbody>
 						<tr>
-							<td>Camilo</td>
+							<td>Camilo Moreira</td>
 							<td>Introdução ao Arduíno</td>
 							<td>08h30 - 12h00</td>
 							<td>LAB 23</td>
@@ -79,7 +79,7 @@
 						</tr>
 
 						<tr>
-							<td>Lucas</td>
+							<td>Lucas Silva</td>
 							<td>BootStrap</td>
 							<td>08h30 - 12h00</td>
 							<td>LAB 1</td>
@@ -87,7 +87,7 @@
 						</tr>
 
 						<tr>
-							<td>Murilo</td>
+							<td>Murilo Cruz</td>
 							<td>Photoshop</td>
 							<td>08h30 - 12h00</td>
 							<td>LAB 3</td>
