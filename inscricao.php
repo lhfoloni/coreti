@@ -20,10 +20,10 @@
 					    <br><br>
 					5. Inscrições para os mini-cursos/oficinas não garantem vagas para assistir as palestras, o mesmo deve se inscrever nas palestras caso queira assisti-las.<br><br>
 
-					6. As oficinas consistirão de atividades práticas apenas. Nelas, o conhecimento prévio acerca do assunto é de fundamental importância, e podem ter sido obtidosnos minicursos disponíveis durante o evento ou em outra atividade do discente.<br><br>
+					6. As oficinas consistirão de atividades práticas apenas. Nelas, o conhecimento prévio acerca do assunto é de fundamental importância, e podem ter sido obtidos nos minicursos disponíveis durante o evento ou em outra atividade do discente.<br><br>
 
 					<b>Conta para depósito:</b>
-				    <b>Banco do Brasil</b><br>
+				    Banco do Brasil<br>
 				    <b>Agência:</b> 2014-1<br>
 				    <b>Conta-Corrente:</b> 29.911-1<br>
 				    <b>Titular:</b> Marcelo Alves Guimarães<br><br>
