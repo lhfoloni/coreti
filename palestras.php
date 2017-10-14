@@ -142,11 +142,10 @@
 					<tbody>
 						<tr>
 							<td>Cláudio Oliveira</td>
-							<td>Software Livre e Telefonia IP</td>
+							<td>Casas Inteligentes</td>
 							<td>14h00 - 14h40</td>
 							<td>10/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
-
 						</tr>
 
 						<tr>
