@@ -18,8 +18,8 @@
 					</thead>
 					<tbody>
 						<tr>
-							<td>Lucas Camara</td>
-							<td>Palestra Empresa Júnior</td>
+							<td>Daniel Frota</td>
+							<td>Como funciona o Movimento Empresa Júnior</td>
 							<td>14h00 - 14h40</td>
 							<td>08/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
@@ -51,7 +51,7 @@
 						<tr>
 							<td>A Definir</td>
 							<td>A Definir</td>
-							<td>16h30 - 17:30</td>
+							<td>16h30 - 17h30</td>
 							<td>08/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 
@@ -86,7 +86,7 @@
 
 						<tr>
 							<td>Napoleão Lemos</td>
-							<td></td>
+							<td>Métricas de ponto de função</td>
 							<td>14h40 - 15h20</td>
 							<td>09/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
@@ -98,9 +98,9 @@
 						</tr>
 
 						<tr>
-							<td>André Luiz Amaral</td>
+							<td>André Andrade</td>
 							<td>Drones e suas tecnologias</td>
-							<td>15h50 - 16h30</td>
+							<td>15h40 - 16h20</td>
 							<td>09/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 
@@ -109,7 +109,7 @@
 						<tr>
 							<td>João Luiz</td>
 							<td>Tecnologias assistivas no contexto da computação</td>
-							<td>16h30 - 17:30</td>
+							<td>16h20 - 17h10</td>
 							<td>09/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 						</tr>
@@ -117,7 +117,7 @@
 						<tr>
 							<td>A definir</td>
 							<td>A definir</td>
-							<td>17h30 - 18:30</td>
+							<td>17h10 - 17h50</td>
 							<td>09/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 						</tr>
@@ -173,9 +173,9 @@
 						</tr>
 
 						<tr>
-							<td>Matheus</td>
-							<td></td>
-							<td>16h30 - 17:30</td>
+							<td>Mateus Oliveira</td>
+							<td>ITIL - Um Caso Prático</td>
+							<td>16h30 - 17h30</td>
 							<td>10/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 						</tr>

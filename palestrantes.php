@@ -81,7 +81,35 @@
                         </span>
                     </a>
                 </div>
+                <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
+                    <a >
+                        <img  src="IMG/mateus.jpg"/>
+                        <span class="desc">
+                        <strong>Mateus Souza Oliveira</strong> É especialista em Gestão de Segurança da Informação (UNIJORGE) e Bacharel em Sistemas de Informação (UESB). Atualmente Consultor Técnico de TI na Cia de Processamento de Dados do Estado da Bahia (PRODEB).
+                        </span>
+                    </a>
+                </div>
+
+                <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
+                    <a >
+                        <img  src="IMG/napoleao.jpg"/>
+                        <span class="desc">
+                        <strong>Napoleão Lemos Filho</strong>
+                        </span>
+                    </a>
+                </div>
             </div>
+            <div class="row">
+                <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
+                    <a >
+                        <img  src="IMG/daniel.jpg"/>
+                        <span class="desc">
+                        <strong>Daniel Hymer Dos Santos Frota</strong> É estudante de Engenharia Mecatrônica na UNIFACS – Universidade Salvador, é Consultor do Movimento Empresa Júnior não federado e Diretor de Marketing da Praxis - Empresa Jr. 
+                        </span>
+                    </a>
+                </div>
+            </div>
+            
         </div>
     </main>
     <?php  include "./elementos/footer.php"; ?>
