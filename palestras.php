@@ -115,8 +115,8 @@
 						</tr>
 
 						<tr>
-							<td>A definir</td>
-							<td>A definir</td>
+							<td>Oberdan Pinheiro</td>
+							<td>Robótica Open Source: Limites e possibilidades</td>
 							<td>17h10 - 17h50</td>
 							<td>09/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>

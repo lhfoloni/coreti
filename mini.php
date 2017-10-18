@@ -20,7 +20,7 @@
 						<tr>
 							<td>Camilo Moreira</td>
 							<td>Introdução ao Arduíno</td>
-							<td>08h30 - 12h00</td>
+							<td>08h00 - 12h00</td>
 							<td>LAB 23</td>
 							<td>08/11/2017 e  09/11/2017</td>
 						</tr>
@@ -28,7 +28,7 @@
 						<tr>
 							<td>Lucas Silva</td>
 							<td>BootStrap</td>
-							<td>08h30 - 12h00</td>
+							<td>08h00 - 12h00</td>
 							<td>LAB 1</td>
 							<td>08/11/2017 e  09/11/2017</td>
 						</tr>
@@ -36,7 +36,7 @@
 						<tr>
 							<td>Murilo Cruz</td>
 							<td>Photoshop</td>
-							<td>08h30 - 12h00</td>
+							<td>08h00 - 12h00</td>
 							<td>LAB 3</td>
 							<td>08/11/2017 e  09/11/2017</td>
 						</tr>
@@ -44,7 +44,7 @@
 						<tr>
 							<td>Gêneses Lopes</td>
 							<td>Introdução ao Linux</td>
-							<td>08h30 - 12h00</td>
+							<td>08h00 - 12h00</td>
 							<td>LAB Matemática</td>
 							<td>09/11/2017 e  10/11/2017</td>
 						</tr>
@@ -52,7 +52,7 @@
 						<tr>
 							<td>Reinaldo Bispo</td>
 							<td>Segurança: Introdução à Teste de Vulnerabilidade</td>
-							<td>08h30 - 12h00</td>
+							<td>08h00 - 12h00</td>
 							<td>Sala de Reunião CPDS</td>
 							<td>08/11/2017 e  09/11/2017</td>
 						</tr>
@@ -73,7 +73,7 @@
 						<tr>
 							<td>Camilo Moreira</td>
 							<td>Introdução ao Arduíno</td>
-							<td>08h30 - 12h00</td>
+							<td>08h00 - 12h00</td>
 							<td>LAB 23</td>
 							<td>10/11/2017</td>
 						</tr>
@@ -81,7 +81,7 @@
 						<tr>
 							<td>Lucas Silva</td>
 							<td>BootStrap</td>
-							<td>08h30 - 12h00</td>
+							<td>08h00 - 12h00</td>
 							<td>LAB 1</td>
 							<td>10/11/2017</td>
 						</tr>
@@ -89,14 +89,14 @@
 						<tr>
 							<td>Murilo Cruz</td>
 							<td>Photoshop</td>
-							<td>08h30 - 12h00</td>
+							<td>08h00 - 12h00</td>
 							<td>LAB 3</td>
 							<td>10/11/2017</td>
 						</tr>
 						<tr>
 							<td>Reinaldo Bispo</td>
 							<td>Segurança: Introdução à Teste de Vulnerabilidade</td>
-							<td>08h30 - 12h00</td>
+							<td>08h00 - 12h00</td>
 							<td>Sala de Reunião CPDS</td>
 							<td>10/11/2017</td>
 						</tr>
