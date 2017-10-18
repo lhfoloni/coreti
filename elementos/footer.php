@@ -7,18 +7,18 @@
           <h7 class="white-text"><strong>Links rápidos</strong></h7>
           <ul>
            <!-- Link do rodape -->
-              <li><a class="white-text text-lighten-3" href="index"><i class="fa fa-university" aria-hidden="true"></i><span>     Evento</span></a></li>
-              <li><a class="white-text text-lighten-3" href="palestras"><i class="fa fa-calendar-check-o" aria-hidden="true"></i><span>     Palestras</span></a></li>
+              <li><a class="white-text text-lighten-3" href="index.php"><i class="fa fa-university" aria-hidden="true"></i><span>     Evento</span></a></li>
+              <li><a class="white-text text-lighten-3" href="palestras.php"><i class="fa fa-calendar-check-o" aria-hidden="true"></i><span>     Palestras</span></a></li>
               <li><a class="white-text text-lighten-3" href="mini"><i class="fa fa-book" aria-hidden="true"></i><span>     Minicursos</span></a></li>
-              <li><a class="white-text text-lighten-3" href="palestrantes"><i class="fa fa-user-o" aria-hidden="true"></i><span>     Palestrantes</span></a></li>
+              <li><a class="white-text text-lighten-3" href="palestrantes.php"><i class="fa fa-user-o" aria-hidden="true"></i><span>     Palestrantes</span></a></li>
             </ul>
           </div>
           <div class="col l3 s6">
             <ul>
               <br>
-              <li><a class="white-text text-lighten-3" href="inscricao"><i class="fa fa-pencil" aria-hidden="true"></i><span>     Inscrições</span></a></li>
-              <li><a class="white-text text-lighten-3" href="localizacao"><i class="fa fa-map-o" aria-hidden="true"></i><span>     Localização</span></a></li>
-              <li><a class="white-text text-lighten-3" href="contato"><i class="fa fa-phone" aria-hidden="true"></i><span>     Contato</span></a></li>
+              <li><a class="white-text text-lighten-3" href="inscricao.php"><i class="fa fa-pencil" aria-hidden="true"></i><span>     Inscrições</span></a></li>
+              <li><a class="white-text text-lighten-3" href="localizacao.php"><i class="fa fa-map-o" aria-hidden="true"></i><span>     Localização</span></a></li>
+              <li><a class="white-text text-lighten-3" href="contato.php"><i class="fa fa-phone" aria-hidden="true"></i><span>     Contato</span></a></li>
             </ul>
         </div>
         <div class="col l1 s12">
