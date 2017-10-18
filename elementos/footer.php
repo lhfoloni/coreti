@@ -9,7 +9,7 @@
            <!-- Link do rodape -->
               <li><a class="white-text text-lighten-3" href="index.php"><i class="fa fa-university" aria-hidden="true"></i><span>     Evento</span></a></li>
               <li><a class="white-text text-lighten-3" href="palestras.php"><i class="fa fa-calendar-check-o" aria-hidden="true"></i><span>     Palestras</span></a></li>
-              <li><a class="white-text text-lighten-3" href="mini"><i class="fa fa-book" aria-hidden="true"></i><span>     Minicursos</span></a></li>
+              <li><a class="white-text text-lighten-3" href="mini.php"><i class="fa fa-book" aria-hidden="true"></i><span>     Minicursos</span></a></li>
               <li><a class="white-text text-lighten-3" href="palestrantes.php"><i class="fa fa-user-o" aria-hidden="true"></i><span>     Palestrantes</span></a></li>
             </ul>
           </div>

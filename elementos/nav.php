@@ -1,6 +1,6 @@
 <nav>
   <div class="nav-wrapper grey darken-3 ">
-    <a href="index" class="brand-logo"><img src="IMG/nav.png"></img></a>
+    <a href="index.php" class="brand-logo"><img src="IMG/nav.png"></img></a>
     <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
 
     <ul class="right hide-on-med-and-down">
