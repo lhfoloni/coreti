@@ -10,7 +10,7 @@
 
 					1. O evento é gratuito. Serão cobrados apenas a participação nos minicursos e das oficinas separadamente. <br><br>
 									          
-					<b>Caso queria participar de algum minicurso:</b><br>
+					<b>Caso queira participar de algum minicurso:</b><br>
 					
 					2. Verificar se o minicurso tem <b>pré-requisito</b> e se o inscrito se encaixa no perfil requisitado.
 					    <br><br>
