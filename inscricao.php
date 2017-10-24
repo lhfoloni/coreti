@@ -18,9 +18,7 @@
 					
 					4. Efetuar o pagamento da quantia referente ao minicurso e enviar a cópia do comprovante para o e-mail: <a href="mailto:coreti@protonmail.com"><u>coreti@protonmail.com</u></a> em até 48 horas após ter concluído o preenchimento do Formulário, para confirmação da sua inscrição.
 					    <br><br>
-					5. Inscrições para os mini-cursos/oficinas não garantem vagas para assistir as palestras, o mesmo deve se inscrever nas palestras caso queira assisti-las.<br><br>
-
-					6. As oficinas consistirão de atividades práticas apenas. Nelas, o conhecimento prévio acerca do assunto é de fundamental importância, e podem ter sido obtidos nos minicursos disponíveis durante o evento ou em outra atividade do discente.<br><br>
+					5. Inscrições para os minicursos não garantem vagas para assistir as palestras, o mesmo deve se inscrever nas palestras caso queira assisti-las.<br><br>
 
 					<b>Conta para depósito:</b>
 				    Banco do Brasil<br>
@@ -89,9 +87,9 @@
 							<td>X</td>
 						</tr>
 						<tr>
-							<td>Organização de Ambiente de Desenvolvimento de Software</td>
+							<td>Métricas de ponto de função</td>
+							<td>R$10,00</td>
 							<td>R$15,00</td>
-							<td>R$20,00</td>
 							<td>20</td>
 							<td></td>
 						</tr>
@@ -99,45 +97,7 @@
 					</tbody>
 				</table>
 				
-				    <br><br>
-				<table class="striped responsive-table centered">
-					<thead class="grey darken-3 white-text">
-						<tr>
-							<th>Oficinas</th>
-							<th>(1º lote) 02/10/2017</th>
-							<th>Vagas</th>
-							</tr>
-					</thead>
-
-					<tbody>
-						<tr>
-							<td>Introdução ao Arduíno</td>
-							<td>R$10,00</td>
-							<td>20</td>
-							</tr>
-						<tr>
-							<td>BootStrap</td>
-							<td>R$10,00</td>
-							<td>20</td>
-						</tr>
-						<tr>
-							<td>Photoshop</td>
-							<td>R$10,00</td>
-							<td>20</td>
-							</tr>
-						<tr>
-							<td>Segurança: Introdução à Teste de Vulnerabilidade</td>
-							<td>R$10,00</td>
-							<td>20</td>
-							</tr>
-						<tr>
-							<td>Organização de Ambiente de Desenvolvimento de Software</td>
-							<td>R$10,00</td>
-							<td>20</td>
-						</tr>
-					</tbody>
-				</table>				
-				
+				<br>
 			</div>
 		<?php  include "modal-requisito.php"; ?>
 	    	</main>

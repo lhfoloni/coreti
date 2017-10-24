@@ -95,7 +95,7 @@
                     <a >
                         <img  src="IMG/napoleao.jpg"/>
                         <span class="desc">
-                        <strong>Napoleão Lemos Filho</strong> ´É Graduado em Ciências da Computação pela UFBA, com Especialização em Gerenciamento e tecnologias ambientais na indústria e em Engenharia Econômica. Atualmente é presidente da SOFTEX (Associação para Promoção da Excelência do Software Brasileiro).
+                        <strong>Napoleão Lemos Filho</strong> É Graduado em Ciências da Computação pela UFBA, com Especialização em Gerenciamento e tecnologias ambientais na indústria e em Engenharia Econômica. Atualmente é presidente da SOFTEX (Associação para Promoção da Excelência do Software Brasileiro).
                         </span>
                     </a>
                 </div>

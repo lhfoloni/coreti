@@ -51,9 +51,9 @@
 						</tr>
 
 						<tr>
-							<td>A Definir</td>
-							<td>A Definir</td>
-							<td>15h50 - 16h30</td>
+							<td>ConsulTI</td>
+							<td>Apresentação da Empresa</td>
+							<td>15h40 - 16h20</td>
 							<td>08/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 
@@ -62,7 +62,7 @@
 						<tr>
 							<td>A Definir</td>
 							<td>A Definir</td>
-							<td>16h30 - 17h30</td>
+							<td>16h20 - 17h10</td>
 							<td>08/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 
@@ -177,7 +177,7 @@
 						<tr>
 							<td>Italo Valcy</td>
 							<td>Aspectos de cibersegurança no ambiente universitário</td>
-							<td>15h50 - 16h30</td>
+							<td>15h40 - 16h20</td>
 							<td>10/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 
@@ -186,7 +186,14 @@
 						<tr>
 							<td>Mateus Oliveira</td>
 							<td>ITIL - Um Caso Prático</td>
-							<td>16h30 - 17h30</td>
+							<td>16h20 - 17h10</td>
+							<td>10/11/2017</td>
+							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
+						</tr>
+						<tr>
+							<td>A Definir</td>
+							<td>A Definir</td>
+							<td>17h10 - 17h50</td>
 							<td>10/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 						</tr>

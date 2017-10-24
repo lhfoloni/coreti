@@ -32,7 +32,7 @@
 							<td>Introdução ao Arduíno</td>
 							<td>08h00 - 12h00</td>
 							<td>LAB 23</td>
-							<td>08/11/2017 e  09/11/2017</td>
+							<td>08/11/2017 e  10/11/2017</td>
 						</tr>
 
 						<tr>
@@ -40,7 +40,7 @@
 							<td>BootStrap</td>
 							<td>08h00 - 12h00</td>
 							<td>LAB 1</td>
-							<td>08/11/2017 e  09/11/2017</td>
+							<td>08/11/2017 e  10/11/2017</td>
 						</tr>
 
 						<tr>
@@ -48,7 +48,7 @@
 							<td>Photoshop</td>
 							<td>08h00 - 12h00</td>
 							<td>LAB 3</td>
-							<td>08/11/2017 e  09/11/2017</td>
+							<td>08/11/2017 e  10/11/2017</td>
 						</tr>
 
 						<tr>
@@ -64,67 +64,16 @@
 							<td>Segurança: Introdução à Teste de Vulnerabilidade</td>
 							<td>08h00 - 12h00</td>
 							<td>Sala de Reunião CPDS</td>
-							<td>08/11/2017 e  09/11/2017</td>
+							<td>08/11/2017 e  10/11/2017</td>
 						</tr>
 						<tr>
 							<td>Napoleão Lemos</td>
-							<td>Organização de Ambiente de Desenvolvimento de Software</td>
+							<td>Métricas de ponto de função</td>
 							<td>08h00 - 12h00</td>
 							<td>Lab 2 Matemática</td>
-							<td>08/11/2017 e  09/11/2017</td>
+							<td>10/11/2017</td>
 						</tr>
 						
-					</tbody>
-				</table>
-				<br><br>
-				<table class="striped responsive-table centered">
-					<thead class="grey darken-3 white-text">
-						<tr>
-							<th>Ministrante</th>
-							<th>Oficina</th>
-							<th>Horário</th>
-							<th>Local</th>
-							<th>Data</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td>Camilo Moreira</td>
-							<td>Introdução ao Arduíno</td>
-							<td>08h00 - 12h00</td>
-							<td>LAB 23</td>
-							<td>10/11/2017</td>
-						</tr>
-
-						<tr>
-							<td>Lucas Silva</td>
-							<td>BootStrap</td>
-							<td>08h00 - 12h00</td>
-							<td>LAB 1</td>
-							<td>10/11/2017</td>
-						</tr>
-
-						<tr>
-							<td>Murilo Cruz</td>
-							<td>Photoshop</td>
-							<td>08h00 - 12h00</td>
-							<td>LAB 3</td>
-							<td>10/11/2017</td>
-						</tr>
-						<tr>
-							<td>Reinaldo Bispo</td>
-							<td>Segurança: Introdução à Teste de Vulnerabilidade</td>
-							<td>08h00 - 12h00</td>
-							<td>Sala de Reunião CPDS</td>
-							<td>10/11/2017</td>
-						</tr>
-						<tr>
-							<td>Napoleão Lemos</td>
-							<td>Organização de Ambiente de Desenvolvimento de Software</td>
-							<td>08h00 - 12h00</td>
-							<td>Lab 2 Matemática</td>
-							<td>10/11/2017</td>
-						</tr>
 					</tbody>
 				</table>
 			</div>
