@@ -5,6 +5,16 @@
 		<?php  include "./elementos/nav.php"; ?>
 		<main>
 			<div class="deposito">
+				<div class="row">
+					<br>
+					<div class="col s12 m1">
+						<a class="btn-floating btn-large waves-effect waves-light grey darken-3 red" href="inscricao.php"><i class="material-icons">add</i></a>
+					</div>
+					<div class="col s12 m11">
+						<p><b>Inscreva-se nos minicursos / oficinas!</b></p>
+					</div>
+					
+				</div>
 				<br><br>
 				<table class="striped responsive-table centered">
 					<thead class="grey darken-3 white-text">
@@ -45,7 +55,7 @@
 							<td>Gêneses Lopes</td>
 							<td>Introdução ao Linux</td>
 							<td>08h00 - 12h00</td>
-							<td>LAB Matemática</td>
+							<td>LAB 1 Matemática</td>
 							<td>09/11/2017 e  10/11/2017</td>
 						</tr>
 
@@ -56,6 +66,14 @@
 							<td>Sala de Reunião CPDS</td>
 							<td>08/11/2017 e  09/11/2017</td>
 						</tr>
+						<tr>
+							<td>Napoleão Lemos</td>
+							<td>Organização de Ambiente de Desenvolvimento de Software</td>
+							<td>08h00 - 12h00</td>
+							<td>Lab 2 Matemática</td>
+							<td>08/11/2017 e  09/11/2017</td>
+						</tr>
+						
 					</tbody>
 				</table>
 				<br><br>
@@ -98,6 +116,13 @@
 							<td>Segurança: Introdução à Teste de Vulnerabilidade</td>
 							<td>08h00 - 12h00</td>
 							<td>Sala de Reunião CPDS</td>
+							<td>10/11/2017</td>
+						</tr>
+						<tr>
+							<td>Napoleão Lemos</td>
+							<td>Organização de Ambiente de Desenvolvimento de Software</td>
+							<td>08h00 - 12h00</td>
+							<td>Lab 2 Matemática</td>
 							<td>10/11/2017</td>
 						</tr>
 					</tbody>

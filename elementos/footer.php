@@ -27,6 +27,7 @@
               <li><a class="white-text text-lighten-3"></i><strong><span>&nbsp&nbsp&nbspRealização:</span></strong></a></li><br>
               <li><a class="white-text text-lighten-3" href="#" onclick="window.open(&quot;http://www.uesb.br&quot;);"></i><img width="35px" src="http://cpds.uesb.br/somar/images/uesb-1-1.png" class="uesb"></a></li>
               <li><a class="white-text text-lighten-3" href="#" onclick="window.open(&quot;http://www2.uesb.br/cpds&quot;);"></i><img width="100px" src="http://www2.uesb.br/cpds/wp-content/uploads/2016/07/logotipo-cpds.png" class="cpds"></a></li>
+              <li><a class="white-text text-lighten-3" href="#" onclick="window.open(&quot;http://www2.uesb.br/empresajunior/consulti/&quot;);"></i><img width="100px" src="IMG/consulti.png"  class="cpds"></a></li>
               </ul>
         </div>
 

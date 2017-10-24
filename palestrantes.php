@@ -77,8 +77,7 @@
                     <a>
                         <img  src="IMG/joao.jpg"/>
                         <span class="desc" align="justify">
-                        <strong>João Luiz</strong> É Mestre e   Doutorando em Engenharia Elétrica , Graduado em Engenharia de
-                        Computação,   especialista   em   Projeto   de   Circuitos   Integrados. Professor Assistente do Centro de Ciência e Tecnologia em Energia e Sustentabilidade – UFRB. 
+                        <strong>João Luiz</strong> É Mestre e Doutorando em Engenharia Elétrica , Graduado em Engenharia de Computação, especialista em Projeto de Circuitos Integrados. Professor Assistente do Centro de Ciência e Tecnologia em Energia e Sustentabilidade – UFRB. 
                         </span>
                     </a>
                     
@@ -96,7 +95,7 @@
                     <a >
                         <img  src="IMG/napoleao.jpg"/>
                         <span class="desc">
-                        <strong>Napoleão Lemos Filho</strong>
+                        <strong>Napoleão Lemos Filho</strong> ´É Graduado em Ciências da Computação pela UFBA, com Especialização em Gerenciamento e tecnologias ambientais na indústria e em Engenharia Econômica. Atualmente é presidente da SOFTEX (Associação para Promoção da Excelência do Software Brasileiro).
                         </span>
                     </a>
                 </div>

@@ -5,6 +5,17 @@
 		<?php  include "./elementos/nav.php"; ?>
 		<main>
 			<div class="deposito">
+				<br>
+				<div class="row">
+					<div class="col s12 m1">
+						<a class="btn-floating btn-large waves-effect waves-light grey darken-3 red" href="#" onclick="window.open(&quot;http://cpds.uesb.br/somar/&quot;);"><i class="material-icons">add</i></a>
+					</div>
+					<div class="col s12 m11">
+						<p><b>Inscreva-se nas palestras!</b></p>
+					</div>
+					
+				</div>
+				
 				<br><br>
 				<table class="striped responsive-table centered">
 					<thead class="grey darken-3 white-text">

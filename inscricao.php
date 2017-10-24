@@ -28,12 +28,25 @@
 				    <b>Conta-Corrente:</b> 29.911-1<br>
 				    <b>Titular:</b> Marcelo Alves Guimarães<br><br>
 			    </p>
+			    <br>
+				<div class="row">
+					<div class="col s12 l4 m12">
+					</div>
+					<div class="col s12 l4 m12">
+						<a class="waves-effect waves-light grey darken-3 btn modal-trigger" width="5%" onclick="window.open(&quot;http://cpds.uesb.br/somar/&quot;);">Inscrições</a>
+					</div>
+					<div class="col s12 l4 m12">
+						<a class="waves-effect waves-light grey darken-3 btn modal-trigger" width="5%" href="#modal1">Pré-requisitos</a>
+					</div>
+				</div>
+				<br>
+
 				<table class="striped responsive-table centered">
 					<thead class="grey darken-3 white-text">
 						<tr>
 							<th>Minicurso</th>
-							<th>02/10/2017</th>
-							<th>05/11/2017</th>
+							<th>(1º lote) 02/10/2017</th>
+							<th>(2º lote) 05/11/2017</th>
 							<th>Vagas</th>
 							<th>Pré-Requisitos</th>
 						</tr>
@@ -75,6 +88,14 @@
 							<td>20</td>
 							<td>X</td>
 						</tr>
+						<tr>
+							<td>Organização de Ambiente de Desenvolvimento de Software</td>
+							<td>R$15,00</td>
+							<td>R$20,00</td>
+							<td>20</td>
+							<td></td>
+						</tr>
+						
 					</tbody>
 				</table>
 				
@@ -83,7 +104,7 @@
 					<thead class="grey darken-3 white-text">
 						<tr>
 							<th>Oficinas</th>
-							<th>02/10/2017</th>
+							<th>(1º lote) 02/10/2017</th>
 							<th>Vagas</th>
 							</tr>
 					</thead>
@@ -109,20 +130,13 @@
 							<td>R$10,00</td>
 							<td>20</td>
 							</tr>
+						<tr>
+							<td>Organização de Ambiente de Desenvolvimento de Software</td>
+							<td>R$10,00</td>
+							<td>20</td>
+						</tr>
 					</tbody>
-				</table>
-
-				<br>
-				<div class="row">
-					<div class="col s12 l4 m12">
-					</div>
-					<div class="col s12 l4 m12">
-						<a class="waves-effect waves-light grey darken-3 btn modal-trigger" width="5%" onclick="window.open(&quot;http://cpds.uesb.br/somar/&quot;);">Inscrições</a>
-					</div>
-					<div class="col s12 l4 m12">
-						<a class="waves-effect waves-light grey darken-3 btn modal-trigger" width="5%" href="#modal1">Pré-requisitos</a>
-					</div>
-				</div>
+				</table>				
 				
 			</div>
 		<?php  include "modal-requisito.php"; ?>
