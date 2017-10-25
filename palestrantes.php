@@ -75,6 +75,14 @@
             <div class="row">
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a>
+                        <img  src="IMG/jeziel.jpg"/>
+                        <span class="desc" align="justify">
+                        <strong>Jeziel Ribeiro Lago</strong> É Mestrando​ ​em​ ​Computação​ ​Aplicada​ ​pela ​UEFS e Graduado em  ​Sistemas​ ​de​ ​Informação​ ​pela UESB.
+                        </span>
+                    </a>
+                </div>
+                <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
+                    <a>
                         <img  src="IMG/joao.jpg"/>
                         <span class="desc" align="justify">
                         <strong>João Luiz</strong> É Mestre e Doutorando em Engenharia Elétrica , Graduado em Engenharia de Computação, especialista em Projeto de Circuitos Integrados. Professor Assistente do Centro de Ciência e Tecnologia em Energia e Sustentabilidade – UFRB. 
@@ -91,6 +99,9 @@
                     </a>
                 </div>
 
+                
+            </div>
+            <div class="row">
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a >
                         <img  src="IMG/napoleao.jpg"/>
@@ -99,8 +110,6 @@
                         </span>
                     </a>
                 </div>
-            </div>
-            <div class="row">
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a >
                         <img  src="IMG/oberdan.jpg"/>
@@ -118,6 +127,7 @@
                         </span>
                     </a>
                 </div>
+                
             </div>
             
         </div>

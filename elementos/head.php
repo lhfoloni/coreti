@@ -21,7 +21,7 @@
     <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
     <link rel="stylesheet" href="css/font-awesome.css">
     <link rel="stylesheet" href="css/coreti.css">
-    <link rel="stylesheet" href="css/legenda.css">
+    <link rel="stylesheet" href="css/legend.css">
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 

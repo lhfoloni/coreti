@@ -68,7 +68,7 @@
 						</tr>
 						<tr>
 							<td>Napoleão Lemos</td>
-							<td>Métricas de ponto de função</td>
+							<td>Organização de Ambiente de Desenvolvimento de Software</td>
 							<td>08h00 - 12h00</td>
 							<td>Lab 2 Matemática</td>
 							<td>10/11/2017</td>

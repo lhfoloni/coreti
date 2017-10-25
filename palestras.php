@@ -191,8 +191,8 @@
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 						</tr>
 						<tr>
-							<td>A Definir</td>
-							<td>A Definir</td>
+							<td>Jeziel Lago</td>
+							<td>​Introdução​ ​a​ ​Segurança​ ​de​ ​Redes​ ​com​ ​Python​</td>
 							<td>17h10 - 17h50</td>
 							<td>10/11/2017</td>
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
