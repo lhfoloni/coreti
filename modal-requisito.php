@@ -10,10 +10,6 @@
                 </thead>
                 <tbody>
                 <tr>
-                    <td>BootStrap</td>
-                    <td>Conhecimento básico em HTML</td>
-                </tr>
-                <tr>
                     <td>Segurança:Teste de Vulnerabilidade</td>
                     <td>Levar notebook</td>
                 </tr>

@@ -59,13 +59,6 @@
 							<td></td>
 						</tr>
 						<tr>
-							<td>BootStrap</td>
-							<td>R$15,00</td>
-							<td>R$20,00</td>
-							<td>20</td>
-							<td>X</td>
-						</tr>
-						<tr>
 							<td>Photoshop</td>
 							<td>R$15,00</td>
 							<td>R$20,00</td>

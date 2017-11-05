@@ -36,14 +36,6 @@
 						</tr>
 
 						<tr>
-							<td>Lucas Silva</td>
-							<td>BootStrap</td>
-							<td>08h00 - 12h00</td>
-							<td>LAB 1</td>
-							<td>08/11/2017 e  10/11/2017</td>
-						</tr>
-
-						<tr>
 							<td>Murilo Cruz</td>
 							<td>Photoshop</td>
 							<td>08h00 - 12h00</td>

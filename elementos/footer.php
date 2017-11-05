@@ -48,6 +48,8 @@
               <li><a class="white-text text-lighten-3" title="Geraldo Fotografias" href="#" onclick="window.open(&quot;http://www.geraldofotografias.com/&quot;);"><img width="75px" src="IMG/gf.png"></a></li>
               <br>
               <li><a class="white-text text-lighten-3" title="Sindicato dos Bancários" href="#" onclick="window.open(&quot;http://bancariosjequie.com.br/&quot;);"><img width="120px" src="IMG/sb.png"></a></li>
+              <br>
+              <li><a class="white-text text-lighten-3" title="CDL Jequié" href="#" onclick="window.open(&quot;http://www.cdljequie.com/&quot;);"><img width="100px" src="IMG/cdl.png"></a></li>
             </ul>
           </div>
       </div>
