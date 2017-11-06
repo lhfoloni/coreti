@@ -32,7 +32,7 @@
 							<td>Introdução ao Arduíno</td>
 							<td>08h00 - 12h00</td>
 							<td>LAB 23</td>
-							<td>08/11/2017 e  10/11/2017</td>
+							<td>08/11/2017 a 10/11/2017</td>
 						</tr>
 
 						<tr>
@@ -40,7 +40,7 @@
 							<td>Photoshop</td>
 							<td>08h00 - 12h00</td>
 							<td>LAB 3</td>
-							<td>08/11/2017 e  10/11/2017</td>
+							<td>08/11/2017 a 10/11/2017</td>
 						</tr>
 
 						<tr>
@@ -48,7 +48,7 @@
 							<td>Introdução ao Linux</td>
 							<td>08h00 - 12h00</td>
 							<td>LAB 1 Matemática</td>
-							<td>09/11/2017 e  10/11/2017</td>
+							<td>09/11/2017 a 10/11/2017</td>
 						</tr>
 
 						<tr>
@@ -56,7 +56,7 @@
 							<td>Segurança: Introdução à Teste de Vulnerabilidade</td>
 							<td>08h00 - 12h00</td>
 							<td>Sala de Reunião CPDS</td>
-							<td>08/11/2017 e  10/11/2017</td>
+							<td>08/11/2017 a 10/11/2017</td>
 						</tr>
 						<tr>
 							<td>Napoleão Lemos</td>
