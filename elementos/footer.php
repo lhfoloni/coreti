@@ -3,7 +3,7 @@
 
     <div class="container">
       <div class="row">
-        <div class="col l3 s6">
+        <div class="col l2 s6">
           <h7 class="white-text"><strong>Links rápidos</strong></h7>
           <ul>
            <!-- Link do rodape -->
@@ -13,7 +13,7 @@
             <li><a class="white-text text-lighten-3" href="palestrantes.php"><i class="fa fa-user-o" aria-hidden="true"></i><span>     Palestrantes</span></a></li>
           </ul>
         </div>
-        <div class="col l3 s6">
+        <div class="col l2 s6">
           <ul>
             <br>
             <li><a class="white-text text-lighten-3" href="inscricao.php"><i class="fa fa-pencil" aria-hidden="true"></i><span>     Inscrições</span></a></li>
@@ -33,7 +33,7 @@
         </div>
 
           <div class="col l2 s12 center-align">
-            <a class="white-text text-lighten-3"></i><strong><span>Patrocínios:</span></strong></a>
+            <a class="white-text text-lighten-3"></i><strong><span>Apoio:</span></strong></a>
             <ul>
               <li><a class="white-text text-lighten-3" title="C4 Celular" href="#" onclick="window.open(&quot;https://www.facebook.com/C4-Celular-809204799109501/&quot;);"><img width="100px" src="IMG/c4.png" ></a></li>
               <br>
@@ -50,6 +50,12 @@
               <li><a class="white-text text-lighten-3" title="Sindicato dos Bancários" href="#" onclick="window.open(&quot;http://bancariosjequie.com.br/&quot;);"><img width="120px" src="IMG/sb.png"></a></li>
               <br>
               <li><a class="white-text text-lighten-3" title="CDL Jequié" href="#" onclick="window.open(&quot;http://www.cdljequie.com/&quot;);"><img width="100px" src="IMG/cdl.png"></a></li>
+            </ul>
+          </div>
+          <div class="col l2 s12 center-align">
+            <br>
+            <ul>
+              <li><a class="white-text text-lighten-3" title="IMTECH" href="#" onclick="window.open(&quot;http://www.imtech.com.br/site/&quot;);"><img width="100px" src="IMG/im.png"></a></li>
             </ul>
           </div>
       </div>
