@@ -56,6 +56,10 @@
             <br>
             <ul>
               <li><a class="white-text text-lighten-3" title="IMTECH" href="#" onclick="window.open(&quot;http://www.imtech.com.br/site/&quot;);"><img width="100px" src="IMG/im.png"></a></li>
+              <br>
+              <li><a class="white-text text-lighten-3" title="SWS" href="#" onclick="window.open(&quot;http://www.lojasws.com.br/index.php&quot;);"><img width="120px" src="IMG/sws.png"></a></li>
+              <br>
+              <li><a class="white-text text-lighten-3" title="Compuserv Informárica" href="#" onclick="window.open(&quot;https://www.facebook.com/compuservinfo/?ref=br_rs&quot;);"><img width="100px" src="IMG/cps.png"></a></li>
             </ul>
           </div>
       </div>
