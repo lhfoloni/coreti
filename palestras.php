@@ -60,15 +60,6 @@
 						</tr>
 
 						<tr>
-							<td>A Definir</td>
-							<td>A Definir</td>
-							<td>16h20 - 17h10</td>
-							<td>08/11/2017</td>
-							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
-
-						</tr>
-
-						<tr>
 							<td colspan="5"><b>Encerramento</b></td>
 
 						</tr>
@@ -125,14 +116,6 @@
 							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
 						</tr>
 
-						<tr>
-							<td>Oberdan Pinheiro</td>
-							<td>Robótica Open Source: Limites e possibilidades</td>
-							<td>17h10 - 17h50</td>
-							<td>09/11/2017</td>
-							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
-						</tr>
-
 
 						<tr>
 							<td colspan="5"><b>Encerramento</b></td>
@@ -151,14 +134,6 @@
 						</tr>
 					</thead>
 					<tbody>
-						<tr>
-							<td>Cláudio Oliveira</td>
-							<td>Casas Inteligentes</td>
-							<td>14h00 - 14h40</td>
-							<td>10/11/2017</td>
-							<td>Anfiteatro do Pavilhao Professor Manoel Sarmento </td>
-						</tr>
-
 						<tr>
 							<td>Adriana Viriato</td>
 							<td>Internet do Futuro</td>

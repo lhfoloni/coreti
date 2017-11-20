@@ -30,28 +30,17 @@
                     </a>
                     
                 </div>
-
-                <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
-                    <a >
-                        <img  src="IMG/claudio.jpg"/>
-                        <span class="desc">
-                        <strong>Cláudio Rodolfo Oliveira</strong> É doutorando em Ciência da Computação pela UFBA (Sistemas Web Semânticos), mestre em Ciência da Computação (Sistemas Distribuídos e Redes) pela UFScar, graduado em Ciência da Computação pela UESB.
-                        </span>
-                    </a>
-                    
-                </div>
-            </div>
-            <div class="row">
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a >
                         <img  src="IMG/daniel.jpg"/>
                         <span class="desc">
                         <strong>Daniel Hymer Dos Santos Frota</strong> É estudante de Engenharia Mecatrônica na UNIFACS – Universidade Salvador, é Consultor do Movimento Empresa Júnior não federado e Diretor de Marketing da Praxis - Empresa Jr. 
                         </span>
-                    </a>
-                    
-
+                    </a> 
                 </div>
+            </div>
+            <div class="row">
+
 
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a>
@@ -70,9 +59,6 @@
                         </span>
                     </a>
                 </div>
-            </div>
-
-            <div class="row">
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a>
                         <img  src="IMG/jeziel.jpg"/>
@@ -81,6 +67,10 @@
                         </span>
                     </a>
                 </div>
+            </div>
+
+            <div class="row">
+                
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a>
                         <img  src="IMG/joao.jpg"/>
@@ -98,10 +88,6 @@
                         </span>
                     </a>
                 </div>
-
-                
-            </div>
-            <div class="row">
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a >
                         <img  src="IMG/napoleao.jpg"/>
@@ -110,15 +96,11 @@
                         </span>
                     </a>
                 </div>
-                <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
-                    <a >
-                        <img  src="IMG/oberdan.jpg"/>
-                        <span class="desc">
-                        <strong>Oberdan Rocha Pinheiro </strong> É Doutor e Mestre em Modelagem Computacional pelo SENAI CIMATEC, Especialista em Sistemas Distribuídos pela Universidade Federal da Bahia – UFBA e Graduado em Processamento de Dados pela Faculdade Ruy Barbosa. Atualmente é Professor do Centro Universitário SENAI CIMATEC. Tem experiência na área de Engenharia da Computação e Automação Industrial, atuando principalmente em Robótica de Serviço, Sistemas Microprocessados e Engenharia de Software.
-                        </span>
-                    </a>
-                    
-                </div>
+                
+            </div>
+            <div class="row">
+                
+                
                 <div class="imgefeito col s12 m6 l4" alt="Exemplo de legenda com CSS">
                     <a>
                         <img  src="IMG/samara.jpeg"/>
